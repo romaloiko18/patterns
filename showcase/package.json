@@ -35,8 +35,8 @@
     "mo-js": "^0.288.2",
     "number-to-words": "^1.2.4",
     "prop-types": "^15.7.2",
-    "react": "^16.10.2",
-    "react-dom": "^16.10.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
     "react-hot-loader": "^4.12.15",
     "react-responsive": "^8.0.1",
     "styled-components": "^4.4.0"

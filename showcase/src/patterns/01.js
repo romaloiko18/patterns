@@ -1,6 +1,7 @@
 import React, { useState, Component } from 'react';
 import styles from "./index.css"
 import mojs from "mo-js"
+
 const initialState = {
     count: 0,
     countTotal: 267,
